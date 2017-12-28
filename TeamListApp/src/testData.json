@@ -1,0 +1,24 @@
+{
+	"Teams": [
+		{
+			"id": 1,
+			"teamName": "Arsenal",
+			"teamLeague": "English Premier League"
+		},
+		{
+			"id": 2,
+			"teamName": "Barcelona",
+			"teamLeague": "La Liga"
+		},
+		{
+			"id": 3,
+			"teamName": "Bayern Munich",
+			"teamLeague": "German Bundesliga"
+		},
+		{
+			"id": 4,
+			"teamName": "Juventus",
+			"teamLeague": "Italian Serie A"
+		}
+	]
+}
